@@ -7,7 +7,7 @@ you need to create nearly identical nginx configuration files for each server.
 ## Prerequisites
 
 * Java 11 or better.
-* [panopset.jar](https://panopset.com/downloads.html) in your home directory.
+* [panopset.jar](https://panopset.com/download.html) in your home directory.
 
 ## Linux, Mac or Windows Powershell
 
