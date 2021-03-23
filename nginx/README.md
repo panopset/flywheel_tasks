@@ -2,7 +2,7 @@
 
 If you want to set up several web sites on a single server,
 using [nginx server blocks](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04#step-5-%E2%80%93-setting-up-server-blocks-%28recommended%29),
-you need to create nearly identical nginx configuration files for each server.
+you need to create nearly identical nginx configuration files for each site hosted on that server.
 
 ## Prerequisites
 
