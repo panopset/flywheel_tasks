@@ -23,4 +23,4 @@ Any time you are faced with a tedious task that requires typing the same thing o
 again, consider trying Panopset Flywheel.  
 
 There are many other template engines out there, 
-but how many are [open source](https://github.com/panopset/flywheel), extensible and freeform, with just seven easy to learn commands?
+but how many are [open source](https://github.com/panopset/home), extensible and freeform, with just seven easy to learn commands?
